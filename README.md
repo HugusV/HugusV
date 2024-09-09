@@ -15,3 +15,7 @@ E-class homework deposit available here :
 - ⚡ Fun fact: ...
 !-->
 
+- [x] @mentions, #refs, [links](), **formatting**, and <del>tags</del> supported
+
+[header](https://capsule-
+render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Sunglok%20Choi&fontSize=32)
