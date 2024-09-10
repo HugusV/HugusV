@@ -1,11 +1,13 @@
 ## Markdown syntax practice 👋
 
-**HugusV/HugusV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**HugusV/HugusV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.<br>
+`README.md`is just my test file using Markdown syntax.\
+Because I am really new to it 🙂
 
  🔭 I’m currently studying at **SeoulTech University** (Seoul National University of Science and Technology) for my exchange student, thanks to my partnership with ESILV-La Défense engineering school 👍.
 
 E-class homework deposit available here :
-* [E-class SeoulTech](https://eclass.seoultech.ac.kr/ilos/st/course/report_view_form.acl?RT_SEQ=6826391&SCH_KEY=&SCH_VALUE=&display=1&start=1)
+* [E-class SeoulTech](https://eclass.seoultech.ac.kr/ilos/st/course/report_view_form.acl?RT_SEQ=6826391&SCH_KEY=&SCH_VALUE=&display=1&start=1) <u>my e-class website and my materials' deposit
 <!-- - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
